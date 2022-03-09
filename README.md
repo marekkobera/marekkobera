@@ -1,6 +1,6 @@
 - 👋 Hi, I am Marek Kobera.
-- 👀 I am interested in getting a new interesting job.
-- 🌱 I am currently learning R a C#.
+- <!--- 👀 I am interested in getting a new interesting job.--->
+- 🌱 I am currently learning Julia, R, and C#.
 - 💞️ I am looking to collaborate on projects leading to publications.
 - 📫 How to reach me: marek.kobera@gmail.com .
 
